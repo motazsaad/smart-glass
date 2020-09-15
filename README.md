@@ -1,4 +1,4 @@
-# Peace Ear Smart Glasses, a graduation project by Nadia Zoheer Khatib 
+# Peace Ear Smart Glasses, a graduation project by Nadia Zuhair Khatib 
 
 # [PeaceEar SmartGlasses](https://github.com/NadiaKhatib/smart-glass)
 PeaseEar is Linux-based system software designed to run on wearable devices with attachment to a pair of glasses that provides a real-time transcription of the words being spoken so that it allows Deaf people to ability to engage in a naturally flowing conversation.
